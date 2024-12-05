@@ -56,7 +56,7 @@ public class MainClass
                 Console.WriteLine($"Помилка: {ex.Message}");
             }
 
-            Console.WriteLine($"Щоб завершити програму, введіть \"{exitCommand}\". Щоб продовжити, натисніть Enter.");
+            Console.WriteLine($"Щоб завершити програму, введіть \"{exitCommand}\". Щоб продовжити, натисніть Enter.Yaykes");
         } while (Console.ReadLine()?.ToLower() != exitCommand);
     }
 }
