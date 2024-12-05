@@ -1,0 +1,14 @@
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+D:\Програмування\C#\Programming\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
